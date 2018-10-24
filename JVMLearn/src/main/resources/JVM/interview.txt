@@ -1,0 +1,7 @@
+面试常问问题:
+    1. 请谈谈你对JVM的理解?java8版有什么了解？
+    2. 谈谈JVM中你对ClassLoader类加载器的认识？
+    3. 什么是OOM？写代码使得分别出现StackOverflowError和OutOfMemoryError
+    4. JVM的常用参数调优你了解吗？
+    5. 内存快照抓取和MAT分析hprof文件干过吗？
+    
